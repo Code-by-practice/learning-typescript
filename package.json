@@ -1,0 +1,15 @@
+{
+  "name": "learning-typescript",
+  "version": "0.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Code-by-practice/learning-typescript.git"
+  },
+  "author": "Ashwin Hegde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Code-by-practice/learning-typescript/issues"
+  },
+  "homepage": "https://github.com/Code-by-practice/learning-typescript#readme"
+}
