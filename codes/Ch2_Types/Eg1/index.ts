@@ -1,6 +1,10 @@
 'use strict';
 
 /**
+ * The let keyword is actually a newer JavaScript construct that TypeScript makes available.
+ */
+
+/**
  * Boolean Type
  */
 let isDone: boolean = false;
