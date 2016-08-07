@@ -1,6 +1,13 @@
 'use strict';
 
+/**
+ * Boolean Type
+ */
 let isDone: boolean = false;
+
+/**
+ * Number Type
+ */
 let decimal: number = 45;
 let hex: number = 0xf00d;
 let binary: number = 0b1010;
